@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello Server <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<!--
-**tadeoigarate/tadeoigarate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi my name is Tadeo, I am a junior full stack web developer. Although I am a full stack developer, I am completely passionate about the backend world, every day I am learning new concepts and working together with colleagues and friends on new projects to not only learn new technologies but also the most important thing, which is teamwork.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const Tadeo = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Python],
+  tools: [React, Redux, Node, Styled-Components, PostgreSQL, MongoDb],
+}
+```
+
+## Contacts:
+📫LinkedIn: https://www.linkedin.com/in/tadeo-ignacio-garate-686a2421b/
+📫Email: tadeo.14ig@outlook.es
+📫WhatsApp: +5492657670974
