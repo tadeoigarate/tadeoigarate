@@ -13,6 +13,6 @@ const Tadeo = {
 ```
 
 ## Contacts:
-📫LinkedIn: https://www.linkedin.com/in/tadeo-ignacio-garate-686a2421b/
-📫Email: tadeo.14ig@outlook.es
-📫WhatsApp: +5492657670974
+- 📫LinkedIn: https://www.linkedin.com/in/tadeo-ignacio-garate-686a2421b/
+- 📫Email: tadeo.14ig@outlook.es
+- 📫WhatsApp: +5492657670974
